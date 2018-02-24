@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-springboot.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-springboot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-springboot_main.iml" group="dubbo-springboot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-springboot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-springboot_test.iml" group="dubbo-springboot" />
+      <module fileurl="file://$PROJECT_DIR$/rain-admin/rain-admin.iml" filepath="$PROJECT_DIR$/rain-admin/rain-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rain-admin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rain-admin_main.iml" group="rain-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rain-admin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rain-admin_test.iml" group="rain-admin" />
+      <module fileurl="file://$PROJECT_DIR$/rain-api/rain-api.iml" filepath="$PROJECT_DIR$/rain-api/rain-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rain-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rain-api_main.iml" group="rain-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rain-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rain-api_test.iml" group="rain-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rain-authority.iml" filepath="$PROJECT_DIR$/.idea/modules/rain-authority.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rain-authority_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rain-authority_main.iml" group="rain-authority" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rain-authority_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rain-authority_test.iml" group="rain-authority" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/test.iml" filepath="$PROJECT_DIR$/.idea/modules/test/test.iml" group="test" />
+    </modules>
+  </component>
+</project>

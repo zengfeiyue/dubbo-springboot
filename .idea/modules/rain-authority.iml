@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="rain-authority" external.linked.project.path="$MODULE_DIR$/../../rain-authority" external.root.project.path="$MODULE_DIR$/../../rain-authority" external.system.id="GRADLE" external.system.module.group="com.the.rain" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../rain-authority">
+      <excludeFolder url="file://$MODULE_DIR$/../../rain-authority/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../rain-authority/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../rain-authority/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
